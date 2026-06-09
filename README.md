@@ -26,7 +26,7 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fe6a1e17-00a2-4866-9eb4-eb4958522cad" />
 
 ## Project Setup and Components
-<img width="248" height="258" alt="image" src="https://github.com/user-attachments/assets/1167ade9-5124-4b71-9c50-c319d113c821" />
+<img width="238" height="258" alt="image" src="https://github.com/user-attachments/assets/1167ade9-5124-4b71-9c50-c319d113c821" />
 
 
 <img width="512" height="152" alt="image" src="https://github.com/user-attachments/assets/5e04cfe8-942b-4961-9c14-f67caae88c0e" />
