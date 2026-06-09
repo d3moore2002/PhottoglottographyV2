@@ -25,16 +25,9 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 ## Our Team!
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fe6a1e17-00a2-4866-9eb4-eb4958522cad" />
 
-## Project Setup and Components
-<img width="238" height="258" alt="image" src="https://github.com/user-attachments/assets/1167ade9-5124-4b71-9c50-c319d113c821" />
+## Bionegineering Day 2026 Poster
+<img width="2500" height="1875" alt="05Poster pdf pptx" src="https://github.com/user-attachments/assets/af42015a-a891-492c-8a1c-16a1ebd87467" />
 
-
-<img width="715" height="200" alt="image" src="https://github.com/user-attachments/assets/5ce1df7e-3de0-4319-bcc7-4950501549f9" />
-
-
-<img width="168" height="258" alt="Screenshot (592)" src="https://github.com/user-attachments/assets/f859ec37-67c6-4dc2-b27e-18d76615dc44" />
-
-<img width="168" height="258" alt="image" src="https://github.com/user-attachments/assets/1f9b44fd-fc66-4e3b-a60c-b0cebaccbaca" />
 
 
 
