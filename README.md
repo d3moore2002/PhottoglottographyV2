@@ -35,6 +35,8 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 
 [Circuit Schematics](Circuit_Schematics/)
 
+[Timeline/Budget/Appendix](Additional_Documents/)
+
 [References](References/)
 
 ### Github Contributions 
