@@ -17,6 +17,8 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 - Signal Acquisition and Processing (Donovan) 
 - Mechanical Placement Holder (Amir)
 
+### Project Video
+
 ### Project Components and Ovverview
 [Project Background](Project_Background/README.md)
 
