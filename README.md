@@ -4,7 +4,7 @@
 ### Mentors: Will Styler, Marc Garellek
 ### Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (), Amir Hojaiji ()
 
-Previous Team: https://github.com/dz-enigmatologist/Photoglottography
+Previous Acknowledgement Team: Thank you Deepta, Vaughan, Erica, and Isabelle for your work! https://github.com/dz-enigmatologist/Photoglottography
 
 ## Problem Statement
 There is a need for a non-invasive, low-cost instrument capable of reliably recognizing changes in laryngeal aperture during speech in a research and in future iterations, perhaps a medical setting. 
