@@ -4,8 +4,6 @@
 ### Mentors: Will Styler, Marc Garellek
 ### Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (), Amir Hojaiji ()
 
-Previous Acknowledgement: Thank you Deepta, Vaughan, Erica, and Isabelle for your work! https://github.com/dz-enigmatologist/Photoglottography
-
 ## Problem Statement
 There is a need for a non-invasive, low-cost instrument capable of reliably recognizing changes in laryngeal aperture during speech in a research and in future iterations, perhaps a medical setting. 
 
@@ -20,13 +18,22 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 - Mechanical Placement Holder (Amir)
 
 ### Project Components and Ovverview
+Project Background 
+
 Experimental Setup
+
 Circuit Design
+
+Mechanical Placement Design
+
+Data Acquisition and Processing
 
 ### Documentation
 [Component_Datasheets](Component_Datasheets/)
 
 [Circuit Schematics](Circuit_Schematics/)
+
+[References](References/)
 
 ### Github Contributions 
 - Repository creation and template - Donovan
@@ -36,6 +43,17 @@ Circuit Design
 
 ## Bionegineering Day 2026 Poster
 <img width="2500" height="1875" alt="05Poster pdf pptx" src="https://github.com/user-attachments/assets/af42015a-a891-492c-8a1c-16a1ebd87467" />
+
+## Conclusion 
+
+## Improvements
+
+### Acknowledgements
+2024-25 Team: Thank you Deepta, Vaughan, Erica, and Isabelle for your work establishing the project for it to become senior design! https://github.com/dz-enigmatologist/Photoglottography
+
+Thank you to our mentors Dr. Will Styler and Dr. Marc Garellek for their wisdom and oversight!
+
+Thank you Dr. Taylor, Iris, and Yashwin for oversight and grading throughout the senior design process!
 
 
 
