@@ -2,7 +2,7 @@
 ## UC San Diego Bioengineering Capstone: 2025-26.
 
 ## Mentors: Will Styler, Marc Garellek
-## Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (), Amir Hojaili ()
+## Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (), Amir Hojaiji ()
 
 Previous Team: https://github.com/dz-enigmatologist/Photoglottography
 
