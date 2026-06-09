@@ -29,7 +29,7 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 <img width="238" height="258" alt="image" src="https://github.com/user-attachments/assets/1167ade9-5124-4b71-9c50-c319d113c821" />
 
 
-<img width="762" height="258" alt="image" src="https://github.com/user-attachments/assets/5ce1df7e-3de0-4319-bcc7-4950501549f9" />
+<img width="700" height="258" alt="image" src="https://github.com/user-attachments/assets/5ce1df7e-3de0-4319-bcc7-4950501549f9" />
 
 
 <img width="168" height="258" alt="Screenshot (592)" src="https://github.com/user-attachments/assets/f859ec37-67c6-4dc2-b27e-18d76615dc44" />
