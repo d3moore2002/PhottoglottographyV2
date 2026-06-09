@@ -19,6 +19,14 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 - Signal Acquisition and Processing (Donovan) 
 - Mechanical Placement Holder (Amir)
 
+### Project Components and Ovverview
+Experimental Setup
+Circuit Design
+
+### Documentation
+[Component_Datasheets](Component_Datasheets/)
+[Circuit Schematics](Circuit_Schematics/)
+
 ### Github Contributions 
 - Repository creation and template - Donovan
 
