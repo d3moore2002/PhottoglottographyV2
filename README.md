@@ -18,15 +18,15 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 - Mechanical Placement Holder (Amir)
 
 ### Project Components and Ovverview
-Project Background 
+[Project Background](Project_Background/README.md)
 
-Experimental Setup
+[Experimental Setup](Experimental_Setup/README.md)
 
-Circuit Design
+[Circuit Design](Circuit_Design/README.md)
 
-Mechanical Placement Design
+[Mechanical Placement Design](Mechancial_Placement_Device/README.md)
 
-Data Acquisition and Processing
+[Data Acquisition and Processing](Data_Acquisition_and_Processing/README.md)
 
 ### Documentation
 [Component_Datasheets](Component_Datasheets/)
