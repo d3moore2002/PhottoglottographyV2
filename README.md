@@ -18,6 +18,7 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 - Mechanical Placement Holder (Amir)
 
 ### Project Video
+https://youtu.be/zr6Eg0ug8D4
 
 ### Project Components and Ovverview
 [Project Background](Project_Background/README.md)
