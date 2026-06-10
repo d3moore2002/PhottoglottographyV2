@@ -34,7 +34,7 @@ https://youtu.be/zr6Eg0ug8D4
 ### Documentation
 [Component_Datasheets](Component_Datasheets/)
 
-[Circuit Schematics](Circuit_Schematics/)
+[Circuit Schematics](PCB_Files/)
 
 [Timeline/Budget/Appendix](Additional_Documents/)
 
