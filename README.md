@@ -43,6 +43,7 @@ https://youtu.be/zr6Eg0ug8D4
 ###### Repository Template, organization, and README 
 ###### Circuit Design 
 ###### Data Acquisition and Processing
+###### Experimental Setup
 
 ##### Isaiah 
 
