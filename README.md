@@ -40,9 +40,9 @@ https://youtu.be/zr6Eg0ug8D4
 
 ### Github Contributions 
 ##### Donovan 
---Repository Template, organization, and README
---Circuit Design
---Data Acquisition and Processing
+###### Repository Template, organization, and README
+####### Circuit Design
+####### Data Acquisition and Processing
 
 ## Our Team!
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fe6a1e17-00a2-4866-9eb4-eb4958522cad" />
