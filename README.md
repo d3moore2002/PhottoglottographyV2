@@ -20,7 +20,7 @@ To evaluate the efficacy of the device, project members and the faculty advisor 
 ### Project Video
 https://youtu.be/zr6Eg0ug8D4
 
-### Project Components and Ovverview
+### Project Components and Overview
 [Project Background](Project_Background/README.md)
 
 [Experimental Setup](Experimental_Setup/README.md)
